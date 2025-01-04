@@ -29,7 +29,7 @@ Set Up TMDB API Key:
 - Add your TMDB API key to the .env file: (see .env.example)
 
 Run the Application: Launch the Streamlit app with:
-- streamlit run app.py
+- streamlit run streamlit_app.py
 
 **🗂️ Data Files**
 
