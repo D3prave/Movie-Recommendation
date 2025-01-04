@@ -1,6 +1,6 @@
 **🎥 Movie Recommendation System**
 
-A web application that recommends movies based on your preferences and movie similarity (genre, title, overview, main stars etc.)
+A web application that recommends movies based on your preferences and movie similarity (genre, title, overview, main stars etc.)  
 Built with Python and Streamlit.
 
 **🚀 Features**
