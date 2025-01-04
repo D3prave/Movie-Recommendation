@@ -1,24 +1,24 @@
-**🎥 Movie Recommendation System**
+# **🎥 Movie Recommendation System**
 
 A web application that recommends movies based on your preferences and movie similarity (genre, title, overview, main stars etc.)  
 Built with Python and Streamlit.
 
-**🚀 Features**
+## **🚀 Features**
 
 Personalized Recommendations: Select movies you've liked, and the app suggests similar movies.  
 Top Movies Browsing: Explore top-rated movies by genre, IMDb ratings, or meta scores.  
 Rich Information: View movie details, including genres, IMDb ratings, meta scores, and overviews.  
 Visual Appeal: Displays movie posters fetched from TMDB.
 
-**📋 Prerequisites**
+## **📋 Prerequisites**
 
 Python: Version 3.7 or higher  
 TMDB API Key: Obtain an API key from [TMDB](https://developer.themoviedb.org/docs/getting-started)
 
-**🛠️ Setup Instructions**
+## **🛠️ Setup Instructions**
 
 Clone the Repository:
-- git clone https://github.com/D3prave/Movie-Recommendation.git
+- git clone <div style="display: inline">https://github.com/D3prave/Movie-Recommendation.git</div>
 - cd movie-recommendation-system
 
 Install Dependencies: Install the required Python libraries:
@@ -31,13 +31,13 @@ Set Up TMDB API Key:
 Run the Application: Launch the Streamlit app with:
 - streamlit run streamlit_app.py
 
-**🗂️ Data Files**
+## **🗂️ Data Files**
 
 movies.csv: Contains the list of movies used for recommendations.  
 imdb_top_1000.csv: Contains detailed information about top-rated movies.  
 combined_similarity.pkl: Precomputed similarity matrix for recommendations.  
 
-**📖 Usage**
+## **📖 Usage**
 
 1. Recommendations Tab  
 - Select movies you've liked from the dropdown.  
@@ -47,10 +47,10 @@ combined_similarity.pkl: Precomputed similarity matrix for recommendations.
 - Sort movies by IMDb ratings or meta scores.  
 - Adjust the number of movies displayed (10, 50, or 100).
 
-**🌐 TMDB API Integration**
+## **🌐 TMDB API Integration**
 
 Posters are fetched using the TMDB API. Ensure you have a valid TMDB API key in the .env file.
 
-**🛡️ License**
+## **🛡️ License**
 
 This project is licensed under the MIT License.
