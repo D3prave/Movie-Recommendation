@@ -26,8 +26,7 @@ Install Dependencies: Install the required Python libraries:
 
 Set Up TMDB API Key:  
 - Create a .env file in the root directory.  
-- Add your TMDB API key to the .env file: (see .env.example)  
-- TMDB_API_KEY=your_tmdb_api_key_here  
+- Add your TMDB API key to the .env file: (see .env.example)
 
 Run the Application: Launch the Streamlit app with:
 - streamlit run app.py
