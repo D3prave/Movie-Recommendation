@@ -40,12 +40,16 @@ combined_similarity.pkl: Precomputed similarity matrix for recommendations.
 ## **📖 Usage**
 
 1. Recommendations Tab  
-- Select movies you've liked from the dropdown.  
+- Select/Type in movies you've liked from the dropdown.  
 - Click Get Recommendations to see similar movies with their details and posters.
 2. Top Movies Tab  
 - Browse top-rated movies by genre.  
 - Sort movies by IMDb ratings or meta scores.  
 - Adjust the number of movies displayed (10, 50, or 100).
+
+## **🚀 Live Demo**
+
+Check out the working app here: [Movie Recommendation System](https://movie-recommendation-deprave.streamlit.app)
 
 ## **🌐 TMDB API Integration**
 
