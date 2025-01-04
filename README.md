@@ -12,7 +12,7 @@ Visual Appeal: Displays movie posters fetched from TMDB.
 
 **📋 Prerequisites**
 
-Python: Version 3.7 or higher
+Python: Version 3.7 or higher  
 TMDB API Key: Obtain an API key from TMDB.
 
 **🛠️ Setup Instructions**
@@ -25,18 +25,18 @@ Install Dependencies: Install the required Python libraries:
 - pip install -r requirements.txt
 
 Set Up TMDB API Key:
-Create a .env file in the root directory.
-Add your TMDB API key to the .env file: (see .env.example)
-TMDB_API_KEY=your_tmdb_api_key_here
+Create a .env file in the root directory.  
+Add your TMDB API key to the .env file: (see .env.example)  
+TMDB_API_KEY=your_tmdb_api_key_here  
 
 Run the Application: Launch the Streamlit app with:
 - streamlit run app.py
 
 **🗂️ Data Files**
 
-movies.csv: Contains the list of movies used for recommendations.
-imdb_top_1000.csv: Contains detailed information about top-rated movies.
-combined_similarity.pkl: Precomputed similarity matrix for recommendations.
+movies.csv: Contains the list of movies used for recommendations.  
+imdb_top_1000.csv: Contains detailed information about top-rated movies.  
+combined_similarity.pkl: Precomputed similarity matrix for recommendations.  
 
 **📖 Usage**
 
