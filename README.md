@@ -19,13 +19,13 @@ TMDB API Key: Obtain an API key from [TMDB](https://developer.themoviedb.org/doc
 
 Clone the Repository:
 - git clone https://github.com/D3prave/Movie-Recommendation.git
-- cd movie-recommendation-system
+- cd Movie-Recommendation
 
 Install Dependencies: Install the required Python libraries:
 - pip install -r requirements.txt
 
 Set Up TMDB API Key:  
-- Create a .env file in the root directory.  
+- Create a .env file in the Movie-Recommendation directory
 - Add your TMDB API key to the .env file: (see .env.example)
 
 Run the Application: Launch the Streamlit app with:
