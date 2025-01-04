@@ -9,5 +9,5 @@ Movie recommendation system that provides personalized movie suggestions based o
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone 
+   git clone git@github.com:D3prave/Movie-Recommendation.git
    cd movie-recommendation-system
