@@ -8,12 +8,12 @@ Built with Python and Streamlit.
 Personalized Recommendations: Select movies you've liked, and the app suggests similar movies.  
 Top Movies Browsing: Explore top-rated movies by genre, IMDb ratings, or meta scores.  
 Rich Information: View movie details, including genres, IMDb ratings, meta scores, and overviews.  
-Visual Appeal: Displays movie posters fetched from TMDB.  
+Visual Appeal: Displays movie posters fetched from TMDB.
 
 **📋 Prerequisites**
 
 Python: Version 3.7 or higher  
-TMDB API Key: Obtain an API key from TMDB.
+TMDB API Key: Obtain an API key from [TMDB](https://developer.themoviedb.org/docs/getting-started)
 
 **🛠️ Setup Instructions**
 
