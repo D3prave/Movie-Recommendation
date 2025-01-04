@@ -1,4 +1,4 @@
-**🎥 Movie Recommendation System**
+#**🎥 Movie Recommendation System**
 
 A web application that recommends movies based on your preferences and displays top movies with detailed information and posters fetched from TMDB. Built with Python and Streamlit.
 
