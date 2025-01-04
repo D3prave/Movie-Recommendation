@@ -18,7 +18,7 @@ TMDB API Key: Obtain an API key from [TMDB](https://developer.themoviedb.org/doc
 ## **🛠️ Setup Instructions**
 
 Clone the Repository:
-- git clone <div style="display: inline">https://github.com/D3prave/Movie-Recommendation.git</div>
+- git clone https://github.com/D3prave/Movie-Recommendation.git
 - cd movie-recommendation-system
 
 Install Dependencies: Install the required Python libraries:
